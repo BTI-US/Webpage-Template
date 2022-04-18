@@ -1,8 +1,8 @@
-# HashDoge Webpage Template
+# MGN-Coin Webpage Template
 
 ## Description
 
-Backup for HashDoge webpage template
+Backup for MGN-coin webpage template
 
 ## Version
 
