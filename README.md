@@ -1,9 +1,12 @@
-# MGN-Coin Webpage Template
+# BTI Platform Dashboard Webpage Template
 
 ## Description
 
-Backup for MGN-coin webpage template
+This is a template for the BTI Platform Dashboard Webpage.
 
 ## Version
 
 Version 1.0
+
+- HTML Version
+- ReactJs Version
