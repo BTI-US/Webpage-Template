@@ -1,8 +1,8 @@
-# MGN-Coin Webpage Template
+# Lotso Webpage Template
 
 ## Description
 
-Backup for MGN-coin webpage template
+Backup for Lotso webpage template
 
 ## Version
 
