@@ -1,9 +1,5 @@
-# HashDoge Webpage Template
+# Webpage Template README
 
-## Description
-
-Backup for HashDoge webpage template
-
-## Version
-
-Version 1.0
+- HELP: https://ninetheme.com/support/
+- DOCUMENTATION: https://ninetheme.com/docs/wpbakery-page-builder-themes-documentation/
+- CHANGELOG: https://ninetheme.com/docs/changelogs/
